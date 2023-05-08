@@ -4,9 +4,9 @@ It's the end of tough year and somehow business manage to earn some profit. Mana
 the bonues are depend on no of sales ,the bonues are depend on the range of sales 
 the bonus as below
 
-  if sales are above 5001 bonus is 30%
-  if sales are below and above 2000 then bonus is 20%
-  if sales are below 2000 then the bonus is 10%
+  - if sales are above 5001 bonus is 30%
+  - if sales are below and above 2000 then bonus is 20%
+  - if sales are below 2000 then the bonus is 10%
   
 Create a report where management will able to see the bonus amount for employees based on the regions and the name of the employees should be like if the first name is Rahul Tiwari then it should be R.Tiwari in the report.
 
